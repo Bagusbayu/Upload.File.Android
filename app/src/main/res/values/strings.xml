@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">apakek</string>
+    <string name="pick_file">Pick file</string>
+    <string name="msg_loading">Loading...</string>
+</resources>
